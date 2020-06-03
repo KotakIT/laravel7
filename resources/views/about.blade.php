@@ -1,3 +1,5 @@
-<html>
-    <h1>ini halaman about</h1>
-</html>
+@extends('layout.app')
+
+@section('content')
+    <h1>ini adalah halaman about</h1>
+@endsection

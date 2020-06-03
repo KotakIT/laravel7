@@ -17,6 +17,6 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 
-Route::view('/', 'welcome');
+Route::view('/', 'mahasiswa');
 
 Route::view('/about', 'about');
